@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: c8971390982241349a293ee07fef1634
+timeCreated: 1487776481
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_001
+    100004: Body_002
+    100006: Body_003
+    100008: Body_004
+    100010: Body_005
+    100012: Body_006
+    100014: Body_007
+    100016: Body_008
+    100018: Body_009
+    100020: Body_010
+    100022: Body_011
+    100024: Body_012
+    100026: Body_013
+    100028: Body_014
+    100030: Body_015
+    100032: Body_016
+    100034: Body_017
+    100036: Body_018
+    100038: Body_019
+    100040: Body_020
+    100042: Body_021
+    100044: Body_022
+    100046: Body_023
+    100048: Body_024
+    100050: Body_026
+    100052: Body_029
+    100054: Cube
+    100056: Head
+    100058: Head_orientation
+    100060: Jaw
+    100062: Root
+    100064: Shape_arrow
+    100066: Shape_ring
+    100068: //RootNode
+    100070: Snake_armature
+    100072: Toungue
+    100074: Toungue_000
+    100076: Toungue_001
+    100078: Toungue_002
+    100080: Toungue_003
+    100082: Toungue_004
+    100084: Toungue_005
+    400000: Body
+    400002: Body_001
+    400004: Body_002
+    400006: Body_003
+    400008: Body_004
+    400010: Body_005
+    400012: Body_006
+    400014: Body_007
+    400016: Body_008
+    400018: Body_009
+    400020: Body_010
+    400022: Body_011
+    400024: Body_012
+    400026: Body_013
+    400028: Body_014
+    400030: Body_015
+    400032: Body_016
+    400034: Body_017
+    400036: Body_018
+    400038: Body_019
+    400040: Body_020
+    400042: Body_021
+    400044: Body_022
+    400046: Body_023
+    400048: Body_024
+    400050: Body_026
+    400052: Body_029
+    400054: Cube
+    400056: Head
+    400058: Head_orientation
+    400060: Jaw
+    400062: Root
+    400064: Shape_arrow
+    400066: Shape_ring
+    400068: //RootNode
+    400070: Snake_armature
+    400072: Toungue
+    400074: Toungue_000
+    400076: Toungue_001
+    400078: Toungue_002
+    400080: Toungue_003
+    400082: Toungue_004
+    400084: Toungue_005
+    2300000: Shape_arrow
+    2300002: Shape_ring
+    3300000: Shape_arrow
+    3300002: Shape_ring
+    4300000: Shape_arrow
+    4300002: Shape_ring
+    4300004: Cube
+    7400000: Default Take
+    7400002: Snake_Attack
+    7400004: Snake_IDLE
+    7400006: Snake_Run
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Shape_arrow
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Snake_armature
+        weight: 1
+      - path: Snake_armature/Root
+        weight: 1
+      - path: Snake_armature/Root/Body
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023/Body_024
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head/Jaw
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004/Toungue_005
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Snake_Attack
+      takeName: Snake_Attack
+      firstFrame: -1
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.538
+        functionName: OnEnemyAttack
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 9730ae2de65f1664bb1ec2f2fcc68f92,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Shape_arrow
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Snake_armature
+        weight: 1
+      - path: Snake_armature/Root
+        weight: 1
+      - path: Snake_armature/Root/Body
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023/Body_024
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head/Jaw
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004/Toungue_005
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Snake_IDLE
+      takeName: Snake_IDLE
+      firstFrame: -1
+      lastFrame: 139
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Shape_arrow
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Snake_armature
+        weight: 1
+      - path: Snake_armature/Root
+        weight: 1
+      - path: Snake_armature/Root/Body
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023/Body_024
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head/Jaw
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004/Toungue_005
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Snake_Run
+      takeName: Snake_Run
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Shape_arrow
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Snake_armature
+        weight: 1
+      - path: Snake_armature/Root
+        weight: 1
+      - path: Snake_armature/Root/Body
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Body_008/Body_026/Body_004/Body_012/Body_002/Body_016/Body_010/Body_006/Body_014/Body_001/Body_015/Body_009/Body_005/Body_013/Body_003/Body_017/Body_018/Body_019/Body_011/Body_020/Body_021/Body_007/Body_022/Body_023/Body_024
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head/Jaw
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004
+        weight: 1
+      - path: Snake_armature/Root/Body/Body_029/Head_orientation/Toungue/Toungue_000/Toungue_001/Toungue_002/Toungue_003/Toungue_004/Toungue_005
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

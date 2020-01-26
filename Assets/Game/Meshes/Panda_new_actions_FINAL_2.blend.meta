@@ -1,0 +1,1582 @@
+fileFormatVersion: 2
+guid: 2ce75d30d54f5454ab8b131a92e1f595
+timeCreated: 1487936467
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Ass
+    100004: Body
+    100006: Body_001
+    100008: Body_002
+    100010: Body_003
+    100012: Body_004
+    100014: Body_005
+    100016: Cheek_L
+    100018: Cheek_R
+    100020: Ear_001_L
+    100022: Ear_001_R
+    100024: Ear_L
+    100026: Ear_R
+    100028: Foot_L
+    100030: Foot_R
+    100032: Forearm_L
+    100034: Forearm_R
+    100036: Foreleg_L
+    100038: Foreleg_R
+    100040: Hand_L
+    100042: Hand_R
+    100044: Handdrag_L
+    100046: Handdrag_R
+    100048: Head
+    100050: Head_001
+    100052: Jaw
+    100054: Niu_body
+    100056: //RootNode
+    100058: Root
+    100060: Shape_ball
+    100062: Shape_ring
+    100064: Shape_root
+    100066: Shoulder_L
+    100068: Shoulder_L_001
+    100070: Shoulder_R
+    100072: Shoulder_R_001
+    100074: Tail
+    100076: Tail_001
+    100078: Tail_002
+    100080: Tail_003
+    100082: Tail_004
+    100084: Tail_005
+    100086: Tail_006
+    100088: Tail_007
+    100090: Upperarm_L
+    100092: Upperarm_R
+    100094: Upperleg_L
+    100096: Upperleg_R
+    400000: Armature
+    400002: Ass
+    400004: Body
+    400006: Body_001
+    400008: Body_002
+    400010: Body_003
+    400012: Body_004
+    400014: Body_005
+    400016: Cheek_L
+    400018: Cheek_R
+    400020: Ear_001_L
+    400022: Ear_001_R
+    400024: Ear_L
+    400026: Ear_R
+    400028: Foot_L
+    400030: Foot_R
+    400032: Forearm_L
+    400034: Forearm_R
+    400036: Foreleg_L
+    400038: Foreleg_R
+    400040: Hand_L
+    400042: Hand_R
+    400044: Handdrag_L
+    400046: Handdrag_R
+    400048: Head
+    400050: Head_001
+    400052: Jaw
+    400054: Niu_body
+    400056: //RootNode
+    400058: Root
+    400060: Shape_ball
+    400062: Shape_ring
+    400064: Shape_root
+    400066: Shoulder_L
+    400068: Shoulder_L_001
+    400070: Shoulder_R
+    400072: Shoulder_R_001
+    400074: Tail
+    400076: Tail_001
+    400078: Tail_002
+    400080: Tail_003
+    400082: Tail_004
+    400084: Tail_005
+    400086: Tail_006
+    400088: Tail_007
+    400090: Upperarm_L
+    400092: Upperarm_R
+    400094: Upperleg_L
+    400096: Upperleg_R
+    2300000: Shape_ball
+    2300002: Shape_ring
+    2300004: Shape_root
+    3300000: Shape_ball
+    3300002: Shape_ring
+    3300004: Shape_root
+    4300000: Shape_root
+    4300002: Shape_ball
+    4300004: Shape_ring
+    4300006: Niu_body
+    7400000: Default Take
+    7400002: Panda_attack_1
+    7400004: Panda_attack_2
+    7400006: Panda_attack_3
+    7400008: Panda_fall
+    7400010: Panda_IDLE_1
+    7400012: Panda_IDLE_2
+    7400014: Panda_Jump
+    7400016: Panda_Jump_2
+    7400018: Panda_Run
+    7400020: Panda_Walk
+    9500000: //RootNode
+    13700000: Niu_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_attack_1
+      takeName: Panda_attack_1
+      firstFrame: -1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_attack_2
+      takeName: Panda_attack_2
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_attack_3
+      takeName: Panda_attack_3
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_fall
+      takeName: Panda_fall
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_IDLE_1
+      takeName: Panda_IDLE_1
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_IDLE_2
+      takeName: Panda_IDLE_2
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_Jump
+      takeName: Panda_Jump
+      firstFrame: -1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_Jump_2
+      takeName: Panda_Jump_2
+      firstFrame: -1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_Run
+      takeName: Panda_Run
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Panda_Walk
+      takeName: Panda_Walk
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Ass
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006
+        weight: 1
+      - path: Armature/Root/Body/Ass/Tail/Tail_001/Tail_002/Tail_003/Tail_004/Tail_005/Tail_006/Tail_007
+        weight: 1
+      - path: Armature/Root/Body/Body_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_L/Ear_001_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Ear_R/Ear_001_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Head_001/Cheek_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Body_005/Head/Jaw
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_L/Shoulder_L_001/Upperarm_L/Forearm_L/Handdrag_L
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Body/Body_001/Body_002/Body_003/Body_004/Shoulder_R/Shoulder_R_001/Upperarm_R/Forearm_R/Handdrag_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_L/Foreleg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R
+        weight: 1
+      - path: Armature/Root/Body/Upperleg_R/Foreleg_R/Foot_R
+        weight: 1
+      - path: Niu_body
+        weight: 1
+      - path: Shape_ball
+        weight: 1
+      - path: Shape_ring
+        weight: 1
+      - path: Shape_root
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

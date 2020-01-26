@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a85d9aa66c93c3f4ea2be4f5a1fd5987
+timeCreated: 1487762021
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Escalope
+  fontNames:
+  - Escalope
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
